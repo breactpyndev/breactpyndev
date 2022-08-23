@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Bob Newton </h1>
+<h1 align="center">Hi</h1>
 <h3 align="center">Angular, React, Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=breactpyndev&label=Profile%20views&color=0e75b6&style=flat" alt="breactpyndev" /> </p>
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Angular, React, Python**
 
-- 📫 How to reach me **brian.weheatley3@gmail.com**
+- 📫 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
